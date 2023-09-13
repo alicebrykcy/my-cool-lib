@@ -1,0 +1,19 @@
+{
+  "name": "my-cool-lib",
+  "version": "1.0.0",
+  "description": "a test lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicebrykcy/my-cool-lib.git"
+  },
+  "author": "Alice Brykcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicebrykcy/my-cool-lib/issues"
+  },
+  "homepage": "https://github.com/alicebrykcy/my-cool-lib#readme"
+}
